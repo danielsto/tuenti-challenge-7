@@ -5,11 +5,11 @@ import itertools
 in_file_path = os.path.join(os.path.dirname(__file__), "submitInput.txt")
 out_file_path = os.path.join(os.path.dirname(__file__), "testOutput.txt")
 
+start = time.time()
 with open(in_file_path, 'r') as infile:
     with open(out_file_path, 'w') as outfile:
         cases = int(infile.readline())
         for case in range(cases):
-            start = time.time()
             '''
             Triangle Inequality Theorem: the sum of two side lengths of a
             triangle is always greater than the third side.
@@ -24,10 +24,9 @@ with open(in_file_path, 'r') as infile:
                     min_perimeter = a + b + c
                     break
             if min_perimeter == 0:
-                runtime = time.time() - start
-                # print("Case #" + str(case + 1) + ": " + "IMPOSSIBLE | " + str(runtime))
                 outfile.write("Case #" + str(case + 1) + ": " + "IMPOSSIBLE" + "\n")
             else:
-                runtime = time.time() - start
-                # print("Case #" + str(case + 1) + ": " + str(min_perimeter) + " | " +str(runtime))
                 outfile.write("Case #" + str(case + 1) + ": " + str(min_perimeter) + "\n")
+
+        runtime = time.time() - start
+        print(runtime)

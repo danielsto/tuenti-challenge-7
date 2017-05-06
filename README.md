@@ -39,7 +39,45 @@ with the operating system.
 
 This one was a little bit more tricky because I had no idea how bowling was scored.
 ## Challenge 3 - Board games
+Only modules from The Python Standard Library were used to solve this challenge.
+These modules were [math](https://docs.python.org/3/library/math.html) for mathematical functions
+and [os](https://docs.python.org/3/library/os.html) to interact with the operating system.
+
+Challenge 3 was all about really understanding what it was being asked and that was
+a bit hard for me.
+
+Coding the solution was easy though. For each case smallest nearest integer of log2(points) is found
+and then added 1. Thus, we get the minimum number of cards necessary to represent all the points in that case.
+
+Runtime:  ~0.001 s including file reading and writing
+Number of lines:  12, main algorithm is 5 lines long 
 ## Challenge 4 - Help Pythagoras Junior
+Only modules from The Python Standard Library were used to solve this challenge.
+These modules were [math](https://docs.python.org/3/library/math.html) for mathematical functions, 
+[os](https://docs.python.org/3/library/os.html) to interact with the operating system and to interact
+with the operating system and [itertools](https://docs.python.org/2/library/itertools.html) to generate
+combinatoric iterators.
+
+For this challenge a little bit of mathematical theory was needed, geometry to be precise.
+According to the [Triangle Inequality Theorem](), "the sum of two side lengths of a triangle is 
+always greater than the third side".
+ 
+It would have seemed obvious to iterate over all the possible combinations of sides and get the smallest
+perimeter of them. And it worked (a bit slow)  with the testInput.txt because it contained only 71 cases
+which greatest number of sides was 100. It definitely didn't work that way with the submitInput.txt, with 130 cases
+of 1000 sides each.
+
+That's where the magic happened. Only by sorting the list (for obvious reasons) it became much more efficient and actually
+ended in a reasonable time.
+
+Run time: ~2.25 s including file reading and writing (more than 2 hours without sorting and not even finishing)   
+Number of lines: 31, main algorithm is 8 lines long
+
 ## Challenge 5 - Ghost in the HTTP
+I still have NO IDEA how was this done but plan to research in write-ups and blogs.
+It had something to do with HTTP/2.
+
 ## Challenge 6 - The Tower
+TODO
 ## Challenge 7 - Word Soup Challenge
+TODO
