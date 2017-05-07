@@ -10,23 +10,19 @@ with open(in_file_path, 'r') as infile:
     with open(out_file_path, 'w') as outfile:
         cases = int(infile.readline())
         for case in range(cases):
-            '''
-            Triangle Inequality Theorem: the sum of two side lengths of a
-            triangle is always greater than the third side.
-            '''
-            sides = [int(i) for i in infile.readline().split()]  # lista con los lados para el triángulo
+            sides = [int(i) for i in infile.readline().split()]
             min_perimeter = 0
-            del sides[0]  # borro primer elemento porque no interesa y puede dar problemas
+            del sides[0]
             sides.sort()
             for a, b, c in itertools.combinations(sides, 3):
-                # print(a, b, c)
                 if a + b > c and b + c > a and a + c > b:
                     min_perimeter = a + b + c
                     break
             if min_perimeter == 0:
-                outfile.write("Case #" + str(case + 1) + ": " + "IMPOSSIBLE" + "\n")
+                outfile.write(
+                    "Case #" + str(case + 1) + ": " + "IMPOSSIBLE" + "\n")
             else:
-                outfile.write("Case #" + str(case + 1) + ": " + str(min_perimeter) + "\n")
-
+                outfile.write("Case #" + str(case + 1) + ": " + str(
+                    min_perimeter) + "\n")
         runtime = time.time() - start
         print(runtime)
