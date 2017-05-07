@@ -1,7 +1,7 @@
 # tuenti-challenge-7
 ![Python version](https://img.shields.io/badge/python-v3.5.2-blue.svg)
 ![Readme version](https://img.shields.io/badge/readme-1.0.0-green.svg)
-![Todo checks](https://img.shields.io/badge/todos-0%2F4-red.svg)
+![Todo checks](https://img.shields.io/badge/todos-0%2F4-red.svg)  
 My solutions on the Tuenti Challenge 7 by Tuenti using Python
 
 [Introduction]()  
