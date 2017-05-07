@@ -1,5 +1,6 @@
 # tuenti-challenge-7
 ![Python version](https://img.shields.io/badge/python-v3.5.2-blue.svg)
+[![Pythons tyle](https://img.shields.io/badge/code%20style-PEP%208-blue.svg)](https://www.python.org/dev/peps/pep-0008/)
 ![Readme version](https://img.shields.io/badge/readme-1.0.0-green.svg)
 ![Todo checks](https://img.shields.io/badge/todos-0%2F5-red.svg)  
 My solutions on the Tuenti Challenge 7 by Tuenti using Python
