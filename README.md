@@ -34,6 +34,7 @@ More on my experience in [this blog post]() in spanish.
 - [ ] Improve or complete challenges based on write-ups or further development
 
 ## Challenge 1 - Pizza Love
+![Result](https://img.shields.io/badge/result-passed-brightgreen.svg)
 Only modules from The Python Standard Library were used to solve this challenge.
 These modules were [math](https://docs.python.org/3/library/math.html) for mathematical functions
 and [os](https://docs.python.org/3/library/os.html) to interact with the operating system.
@@ -46,9 +47,11 @@ for everyone, even though this may cause some leftovers.
 Run time: ~0.07 seconds including file reading and writing.  
 Number of lines: 17 including module imports. Main algorithm is 8 lines.
 ## Challenge 2 - Bowling
+![Result](https://img.shields.io/badge/result-wrong-red.svg)
 TODO
 
 ## Challenge 3 - Board games
+![Result](https://img.shields.io/badge/result-passed-brightgreen.svg)
 Only modules from The Python Standard Library were used to solve this challenge.
 These modules were [math](https://docs.python.org/3/library/math.html) for mathematical functions
 and [os](https://docs.python.org/3/library/os.html) to interact with the operating system.
@@ -62,6 +65,7 @@ and then added 1. Thus, we get the minimum number of cards necessary to represen
 Runtime:  ~0.001 s including file reading and writing  
 Number of lines:  12, main algorithm is 5 lines long 
 ## Challenge 4 - Help Pythagoras Junior
+![Result](https://img.shields.io/badge/result-passed-brightgreen.svg)
 Only modules from The Python Standard Library were used to solve this challenge.
 These modules were [math](https://docs.python.org/3/library/math.html) for mathematical functions, 
 [os](https://docs.python.org/3/library/os.html) to interact with the operating system and to interact
@@ -84,15 +88,20 @@ Run time: ~2.25 s including file reading and writing (more than 2 hours without 
 Number of lines: 31, main algorithm is 8 lines long
 
 ## Challenge 5 - Ghost in the HTTP
+![Result](https://img.shields.io/badge/result-passed-brightgreen.svg)
 I still have NO IDEA how was this done but plan to research in write-ups and blogs.
 It had something to do with HTTP/2.
 ## Challenge 6 - The Tower
+![Result](https://img.shields.io/badge/result-skipped-lightgrey.svg)
 TODO
 ## Challenge 7 - Word Soup Challenge
+![Result](https://img.shields.io/badge/result-passed-brightgreen.svg)
 TODO
 ## Challenge 8 - Uni code to rule them all
+![Result](https://img.shields.io/badge/result-skipped-lightgrey.svg)
 TODO
 ## Challenge 9 - The Supreme Scalextric Architect
+![Result](https://img.shields.io/badge/result-passed-brightgreen.svg)
 Only modules from The Python Standard Library were used to solve this challenge.
 These modules were [math](https://docs.python.org/3/library/math.html) for mathematical functions
 and [os](https://docs.python.org/3/library/os.html) to interact with the operating system.
