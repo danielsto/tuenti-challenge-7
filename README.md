@@ -26,6 +26,11 @@ I had some problems submitting a couple of output files so I was not properly ra
  
 More on my experience in [this blog post]() in spanish.
 
+You can clone this repository by typing this in your terminal:  
+
+``$ git clone https://github.com/danielsto/tuenti-challenge-7
+``
+
 ## TODO List
 
 - [ ] README in each folder
