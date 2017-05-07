@@ -1,10 +1,11 @@
 # tuenti-challenge-7
 ![Python version](https://img.shields.io/badge/python-v3.5.2-blue.svg)
-![Readme version]()
+![Readme version](https://img.shields.io/badge/readme-1.0.0-green.svg)
+![Todo checks](https://img.shields.io/badge/todos-0%2F4-red.svg)
 My solutions on the Tuenti Challenge 7 by Tuenti using Python
 
-[Introduction]()
-[TODOS]()
+[Introduction]()  
+[TODO List]()  
 [Challenge 1 - Pizza Love](https://github.com/danielsto/tuenti-challenge-7#challenge-1---pizza-love)  
 [Challenge 2 - Bowling](https://github.com/danielsto/tuenti-challenge-7#challenge-2---bowling)  
 [Challenge 3 - Board games](https://github.com/danielsto/tuenti-challenge-7#challenge-3---board-games)  
@@ -12,7 +13,7 @@ My solutions on the Tuenti Challenge 7 by Tuenti using Python
 [Challenge 5 - Ghost in the HTTP](https://github.com/danielsto/tuenti-challenge-7#challenge-5---ghost-in-the-http)  
 [Challenge 6 - The Tower](https://github.com/danielsto/tuenti-challenge-7#challenge-6---the-tower)  
 [Challenge 7 - Word Soup Challenge](https://github.com/danielsto/tuenti-challenge-7#challenge-7---word-soup-challenge)  
-[Challenge 8 - ]()  
+[Challenge 8 - Uni code to rule them all](https://github.com/danielsto/tuenti-challenge-7#challenge-8---uni-code-to-rule-them-all)  
 [Challenge 9 - The Supreme Scalextric Architect](https://github.com/danielsto/tuenti-challenge-7#challenge-9---the-supreme-scalextric-architect)  
 
 ## Introduction
@@ -25,7 +26,7 @@ I had some problems submitting a couple of output files so I was not properly ra
  
 More on my experience in [this blog post]() in spanish.
 
-## TODOS
+## TODO List
 
 - [ ] README in each folder
 - [ ] Graph performance for each challenge
