@@ -1,16 +1,18 @@
 # tuenti-challenge-7
+![Python version](https://img.shields.io/badge/python-v3.5.2-blue.svg)
+
 My solutions on the Tuenti Challenge 7 by Tuenti using Python
 
 [Introduction]()  
 [Challenge 1 - Pizza Love](https://github.com/danielsto/tuenti-challenge-7#challenge-1---pizza-love)  
-[Challenge 2 - Bowling]()  
-[Challenge 3 - Board games]()  
-[Challenge 4 - Help Pythagoras Junior]()  
-[Challenge 5 - Ghost in the HTTP]()  
-[Challenge 6 - The Tower]()  
-[Challenge 7 - Word Soup Challenge]()  
+[Challenge 2 - Bowling](https://github.com/danielsto/tuenti-challenge-7#challenge-2---bowling)  
+[Challenge 3 - Board games](https://github.com/danielsto/tuenti-challenge-7#challenge-3---board-games)  
+[Challenge 4 - Help Pythagoras Junior](https://github.com/danielsto/tuenti-challenge-7#challenge-4---help-pythagoras-junior)  
+[Challenge 5 - Ghost in the HTTP](https://github.com/danielsto/tuenti-challenge-7#challenge-5---ghost-in-the-http)  
+[Challenge 6 - The Tower](https://github.com/danielsto/tuenti-challenge-7#challenge-6---the-tower)  
+[Challenge 7 - Word Soup Challenge](https://github.com/danielsto/tuenti-challenge-7#challenge-7---word-soup-challenge)  
 
-## Introduction
+## Introduction and disclaimer
 This is my approach to the programming contest Tuenti Challenge 7 organized by Tuenti in 2017.
 Most of the code was written in Python 3.5 and is available in this repository.
 There are also files containing input and output data for each challenge.
@@ -18,7 +20,7 @@ There are also files containing input and output data for each challenge.
 I had some problems submitting a couple of output files so I was not properly ranked
 (I sent output from one challenge to two different challenges). Nevertheless I was #327 out of 1428 contestants.
  
- More on my experience in this [blog post]() in spanish.
+More on my experience in [this blog post]() in spanish.
 
 ## Challenge 1 - Pizza Love
 Only modules from The Python Standard Library were used to solve this challenge.
@@ -33,11 +35,8 @@ for everyone, even though this may cause some leftovers.
 Run time: ~0.07 seconds including file reading and writing.  
 Number of lines: 17 including module imports. Main algorithm is 8 lines.
 ## Challenge 2 - Bowling
-Only one module from The Python Standard Library was used to solve this challenge.
-This module was [os](https://docs.python.org/3/library/os.html) to enable interaction
-with the operating system.
+TODO
 
-This one was a little bit more tricky because I had no idea how bowling was scored.
 ## Challenge 3 - Board games
 Only modules from The Python Standard Library were used to solve this challenge.
 These modules were [math](https://docs.python.org/3/library/math.html) for mathematical functions
@@ -49,7 +48,7 @@ a bit hard for me.
 Coding the solution was easy though. For each case smallest nearest integer of log2(points) is found
 and then added 1. Thus, we get the minimum number of cards necessary to represent all the points in that case.
 
-Runtime:  ~0.001 s including file reading and writing
+Runtime:  ~0.001 s including file reading and writing  
 Number of lines:  12, main algorithm is 5 lines long 
 ## Challenge 4 - Help Pythagoras Junior
 Only modules from The Python Standard Library were used to solve this challenge.
@@ -59,7 +58,7 @@ with the operating system and [itertools](https://docs.python.org/2/library/iter
 combinatoric iterators.
 
 For this challenge a little bit of mathematical theory was needed, geometry to be precise.
-According to the [Triangle Inequality Theorem](), "the sum of two side lengths of a triangle is 
+According to the [Triangle Inequality Theorem](http://mathworld.wolfram.com/TriangleInequality.html), "the sum of two side lengths of a triangle is 
 always greater than the third side".
  
 It would have seemed obvious to iterate over all the possible combinations of sides and get the smallest
