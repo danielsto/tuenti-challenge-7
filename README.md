@@ -1,9 +1,10 @@
 # tuenti-challenge-7
 ![Python version](https://img.shields.io/badge/python-v3.5.2-blue.svg)
-
+![Readme version]()
 My solutions on the Tuenti Challenge 7 by Tuenti using Python
 
-[Introduction]()  
+[Introduction]()
+[TODOS]()
 [Challenge 1 - Pizza Love](https://github.com/danielsto/tuenti-challenge-7#challenge-1---pizza-love)  
 [Challenge 2 - Bowling](https://github.com/danielsto/tuenti-challenge-7#challenge-2---bowling)  
 [Challenge 3 - Board games](https://github.com/danielsto/tuenti-challenge-7#challenge-3---board-games)  
@@ -11,8 +12,10 @@ My solutions on the Tuenti Challenge 7 by Tuenti using Python
 [Challenge 5 - Ghost in the HTTP](https://github.com/danielsto/tuenti-challenge-7#challenge-5---ghost-in-the-http)  
 [Challenge 6 - The Tower](https://github.com/danielsto/tuenti-challenge-7#challenge-6---the-tower)  
 [Challenge 7 - Word Soup Challenge](https://github.com/danielsto/tuenti-challenge-7#challenge-7---word-soup-challenge)  
+[Challenge 8 - ]()  
+[Challenge 9 - The Supreme Scalextric Architect](https://github.com/danielsto/tuenti-challenge-7#challenge-9---the-supreme-scalextric-architect)  
 
-## Introduction and disclaimer
+## Introduction
 This is my approach to the programming contest Tuenti Challenge 7 organized by Tuenti in 2017.
 Most of the code was written in Python 3.5 and is available in this repository.
 There are also files containing input and output data for each challenge.
@@ -21,6 +24,13 @@ I had some problems submitting a couple of output files so I was not properly ra
 (I sent output from one challenge to two different challenges). Nevertheless I was #327 out of 1428 contestants.
  
 More on my experience in [this blog post]() in spanish.
+
+## TODOS
+
+- [ ] README in each folder
+- [ ] Graph performance for each challenge
+- [ ] Add comparisons with official stats released by Tuenti
+- [ ] Improve or complete challenges based on write-ups or further development
 
 ## Challenge 1 - Pizza Love
 Only modules from The Python Standard Library were used to solve this challenge.
@@ -75,8 +85,14 @@ Number of lines: 31, main algorithm is 8 lines long
 ## Challenge 5 - Ghost in the HTTP
 I still have NO IDEA how was this done but plan to research in write-ups and blogs.
 It had something to do with HTTP/2.
-
 ## Challenge 6 - The Tower
 TODO
 ## Challenge 7 - Word Soup Challenge
 TODO
+## Challenge 8 - Uni code to rule them all
+TODO
+## Challenge 9 - The Supreme Scalextric Architect
+Only modules from The Python Standard Library were used to solve this challenge.
+These modules were [math](https://docs.python.org/3/library/math.html) for mathematical functions
+and [os](https://docs.python.org/3/library/os.html) to interact with the operating system.
+
