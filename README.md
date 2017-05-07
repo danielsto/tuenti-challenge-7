@@ -1,7 +1,7 @@
 # tuenti-challenge-7
 ![Python version](https://img.shields.io/badge/python-v3.5.2-blue.svg)
 ![Readme version](https://img.shields.io/badge/readme-1.0.0-green.svg)
-![Todo checks](https://img.shields.io/badge/todos-0%2F4-red.svg)  
+![Todo checks](https://img.shields.io/badge/todos-0%2F5-red.svg)  
 My solutions on the Tuenti Challenge 7 by Tuenti using Python
 
 [Introduction]()  
@@ -37,6 +37,7 @@ You can clone this repository by typing this in your terminal:
 - [ ] Graph performance for each challenge
 - [ ] Add comparisons with official stats released by Tuenti
 - [ ] Improve or complete challenges based on write-ups or further development
+- [ ] OOP
 
 ## Challenge 1 - Pizza Love
 ![Result](https://img.shields.io/badge/result-passed-brightgreen.svg)  
