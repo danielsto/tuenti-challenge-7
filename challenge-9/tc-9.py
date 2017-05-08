@@ -16,7 +16,7 @@ with open(in_file_path, 'r') as infile:
 
             used_c = math.trunc(c / 2) * 2
 
-            if used_c < 4:
+            if used_c < 4:  # minimum of 4 curves to close circuit
                 used_c = 0
                 used_s = 0
                 used_d = 0
