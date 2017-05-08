@@ -1,11 +1,9 @@
 import os
-import time
 import math
 
 in_file_path = os.path.join(os.path.dirname(__file__), "submitInput.txt")
 out_file_path = os.path.join(os.path.dirname(__file__), "testOutput.txt")
 
-start = time.time()
 with open(in_file_path, 'r') as infile:
     with open(out_file_path, 'w') as outfile:
         cases = int(infile.readline())

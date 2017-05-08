@@ -14,4 +14,5 @@ with open(in_file_path, 'r') as infile:
             for sliced in hunger_1:
                 slices = slices + int(sliced)
             pizzas = slices / 8
-            outfile.write("Case #" + str(case + 1) + ": " + str(math.ceil(pizzas)) + "\n")
+            outfile.write("Case #" + str(case + 1) + ": " + str(
+                math.ceil(pizzas)) + "\n")

@@ -117,3 +117,7 @@ Only modules from The Python Standard Library were used to solve this challenge.
 These modules were [math](https://docs.python.org/3/library/math.html) for mathematical functions
 and [os](https://docs.python.org/3/library/os.html) to interact with the operating system.
 
+It was a bit difficult to come up with the constraints for this problem but 
+
+Run time: ~0.02 s including file reading and writing   
+Number of lines: 31, main algorithm is 8 lines long
