@@ -5,17 +5,17 @@
 ![Todo checks](https://img.shields.io/badge/todos-0%2F5-red.svg)  
 My solutions on the Tuenti Challenge 7 by Tuenti using Python
 
-[Introduction]()  
-[TODO List]()  
-[Challenge 1 - Pizza Love](https://github.com/danielsto/tuenti-challenge-7#challenge-1---pizza-love)  
-[Challenge 2 - Bowling](https://github.com/danielsto/tuenti-challenge-7#challenge-2---bowling)  
-[Challenge 3 - Board games](https://github.com/danielsto/tuenti-challenge-7#challenge-3---board-games)  
-[Challenge 4 - Help Pythagoras Junior](https://github.com/danielsto/tuenti-challenge-7#challenge-4---help-pythagoras-junior)  
-[Challenge 5 - Ghost in the HTTP](https://github.com/danielsto/tuenti-challenge-7#challenge-5---ghost-in-the-http)  
-[Challenge 6 - The Tower](https://github.com/danielsto/tuenti-challenge-7#challenge-6---the-tower)  
-[Challenge 7 - Word Soup Challenge](https://github.com/danielsto/tuenti-challenge-7#challenge-7---word-soup-challenge)  
-[Challenge 8 - Uni code to rule them all](https://github.com/danielsto/tuenti-challenge-7#challenge-8---uni-code-to-rule-them-all)  
-[Challenge 9 - The Supreme Scalextric Architect](https://github.com/danielsto/tuenti-challenge-7#challenge-9---the-supreme-scalextric-architect)  
+1. [Introduction]()  
+2. [TODO List]()  
+3. [Challenge 1 - Pizza Love](https://github.com/danielsto/tuenti-challenge-7#challenge-1---pizza-love)  
+4. [Challenge 2 - Bowling](https://github.com/danielsto/tuenti-challenge-7#challenge-2---bowling)  
+5. [Challenge 3 - Board games](https://github.com/danielsto/tuenti-challenge-7#challenge-3---board-games)  
+6. [Challenge 4 - Help Pythagoras Junior](https://github.com/danielsto/tuenti-challenge-7#challenge-4---help-pythagoras-junior)  
+7. [Challenge 5 - Ghost in the HTTP](https://github.com/danielsto/tuenti-challenge-7#challenge-5---ghost-in-the-http)  
+8. [Challenge 6 - The Tower](https://github.com/danielsto/tuenti-challenge-7#challenge-6---the-tower)  
+9. [Challenge 7 - Word Soup Challenge](https://github.com/danielsto/tuenti-challenge-7#challenge-7---word-soup-challenge)  
+10. [Challenge 8 - Uni code to rule them all](https://github.com/danielsto/tuenti-challenge-7#challenge-8---uni-code-to-rule-them-all)  
+11. [Challenge 9 - The Supreme Scalextric Architect](https://github.com/danielsto/tuenti-challenge-7#challenge-9---the-supreme-scalextric-architect)  
 
 ## Introduction
 This is my approach to the programming contest Tuenti Challenge 7 organized by Tuenti in 2017.
