@@ -105,7 +105,7 @@ It had something to do with HTTP/2.
 ![Result](https://img.shields.io/badge/result-skipped-lightgrey.svg)  
 TODO
 ## Challenge 7 - Word Soup Challenge
-![Result](https://img.shields.io/badge/result-passed-brightgreen.svg)  
+![Result](https://img.shields.io/badge/result-wrong-red.svg)  
 TODO
 ## Challenge 8 - Uni code to rule them all
 ![Result](https://img.shields.io/badge/result-skipped-lightgrey.svg)  
