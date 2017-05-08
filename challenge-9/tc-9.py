@@ -35,7 +35,7 @@ with open(in_file_path, 'r') as infile:
             elif used_c >= 12 and used_c % 4 == 0:
                 used_s = math.trunc(s / 2) * 2
                 used_d = d
-
             used_c -= 2
+
             outfile.write("Case #" + str(case + 1) + ": " + str(
                 used_c + used_s + used_d) + "\n")

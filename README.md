@@ -25,7 +25,7 @@ There are also files containing input and output data for each challenge.
 I had some problems submitting a couple of output files so I was not properly ranked
 (I sent output from one challenge to two different challenges). Nevertheless I was #327 out of 1428 contestants.
  
-More on my experience in [this blog post]() in spanish.
+More on my experience in [this blog post](https://fahrenheitfreiheit.wordpress.com/2017/05/08/tuenti-challenge-7-el-after/) in spanish.
 
 You can clone this repository by typing this in your terminal:  
 
