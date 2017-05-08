@@ -34,14 +34,15 @@ You can clone this repository by typing this in your terminal:
 
 ## TODO List
 
-- [ ] README in each folder
+- [ ] README in each folder with challenge description
 - [ ] Graph performance for each challenge
 - [ ] Add comparisons with official stats released by Tuenti
 - [ ] Improve or complete challenges based on write-ups or further development
 - [ ] OOP
 
 ## Challenge 1 - Pizza Love
-![Result](https://img.shields.io/badge/result-passed-brightgreen.svg)  
+![Result](https://img.shields.io/badge/result-passed-brightgreen.svg)
+![Validation](https://img.shields.io/badge/PEP8%20online%20check-VALID-brightgreen.svg)  
 Only modules from The Python Standard Library were used to solve this challenge.
 These modules were [math](https://docs.python.org/3/library/math.html) for mathematical functions
 and [os](https://docs.python.org/3/library/os.html) to interact with the operating system.
@@ -58,7 +59,8 @@ Number of lines: 17 including module imports. Main algorithm is 8 lines.
 TODO
 
 ## Challenge 3 - Board games
-![Result](https://img.shields.io/badge/result-passed-brightgreen.svg)  
+![Result](https://img.shields.io/badge/result-passed-brightgreen.svg)
+![Validation](https://img.shields.io/badge/PEP8%20online%20check-VALID-brightgreen.svg)  
 Only modules from The Python Standard Library were used to solve this challenge.
 These modules were [math](https://docs.python.org/3/library/math.html) for mathematical functions
 and [os](https://docs.python.org/3/library/os.html) to interact with the operating system.
@@ -72,7 +74,8 @@ and then added 1. Thus, we get the minimum number of cards necessary to represen
 Runtime:  ~0.001 s including file reading and writing  
 Number of lines:  12, main algorithm is 5 lines long 
 ## Challenge 4 - Help Pythagoras Junior
-![Result](https://img.shields.io/badge/result-passed-brightgreen.svg)  
+![Result](https://img.shields.io/badge/result-passed-brightgreen.svg)
+![Validation](https://img.shields.io/badge/PEP8%20online%20check-VALID-brightgreen.svg)  
 Only modules from The Python Standard Library were used to solve this challenge.
 These modules were [math](https://docs.python.org/3/library/math.html) for mathematical functions, 
 [os](https://docs.python.org/3/library/os.html) to interact with the operating system and to interact
@@ -95,7 +98,7 @@ Run time: ~2.25 s including file reading and writing (more than 2 hours without 
 Number of lines: 31, main algorithm is 8 lines long
 
 ## Challenge 5 - Ghost in the HTTP
-![Result](https://img.shields.io/badge/result-passed-brightgreen.svg)  
+![Result](https://img.shields.io/badge/result-skipped-lightgrey.svg)  
 I still have NO IDEA how was this done but plan to research in write-ups and blogs.
 It had something to do with HTTP/2.
 ## Challenge 6 - The Tower
@@ -108,7 +111,8 @@ TODO
 ![Result](https://img.shields.io/badge/result-skipped-lightgrey.svg)  
 TODO
 ## Challenge 9 - The Supreme Scalextric Architect
-![Result](https://img.shields.io/badge/result-passed-brightgreen.svg)  
+![Result](https://img.shields.io/badge/result-passed-brightgreen.svg)
+![Validation](https://img.shields.io/badge/PEP8%20online%20check-VALID-brightgreen.svg)  
 Only modules from The Python Standard Library were used to solve this challenge.
 These modules were [math](https://docs.python.org/3/library/math.html) for mathematical functions
 and [os](https://docs.python.org/3/library/os.html) to interact with the operating system.
