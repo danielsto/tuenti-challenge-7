@@ -6,9 +6,9 @@ out_file_path = os.path.join(os.path.dirname(__file__), "testOutput.txt")
 with open(in_file_path, 'r') as infile:
     with open(out_file_path, 'w') as outfile:
 
-        cases = infile.readline()
+        cases = int(infile.readline())
 
-        for case in range(int(cases)):
+        for case in range(cases):
             points = int(infile.readline())
             cards = math.ceil(math.log(points, 2))
 
