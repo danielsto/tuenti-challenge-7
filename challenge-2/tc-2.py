@@ -8,11 +8,12 @@ with open(in_file_path, 'r') as infile:
         cases = infile.readline()
 
         for case in range(int(cases)):
+            frame = 0
             score = 0
             scores = []
             n_rolls = " ".join(infile.readline().split())
             rolls = list(map(int, (infile.readline().split())))
-            frame = 0
+
             for i in range(10):
                 if rolls[frame] == 10:
                     score += 10 + rolls[frame + 1] + rolls[frame + 2]
@@ -26,4 +27,5 @@ with open(in_file_path, 'r') as infile:
 
                 scores.append(score)
 
-            outfile.write("Case #" + str(case + 1) + ": " + ' '.join(str(score) for score in scores) + "\n")
+            outfile.write("Case #" + str(case + 1) + ": " + ' '.join(
+                str(score) for score in scores) + "\n")
