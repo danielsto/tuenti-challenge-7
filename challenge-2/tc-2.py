@@ -15,17 +15,17 @@ with open(in_file_path, 'r') as infile:
             rolls = list(map(int, (infile.readline().split())))
 
             for i in range(10):
-                if rolls[frame] == 10:
+                if rolls[frame] == 10:  # STRIKE
                     score += 10 + rolls[frame + 1] + rolls[frame + 2]
                     frame += 1
-                elif rolls[frame] + rolls[frame + 1] == 10:
+                elif rolls[frame] + rolls[frame + 1] == 10:  # SPARE
                     score += 10 + rolls[frame + 2]
                     frame += 2
-                else:
+                else:  # NORMAL
                     score += rolls[frame] + rolls[frame + 1]
                     frame += 2
 
-                scores.append(score)
+                    scores.append(score)
 
             outfile.write("Case #" + str(case + 1) + ": " + ' '.join(
                 str(score) for score in scores) + "\n")
