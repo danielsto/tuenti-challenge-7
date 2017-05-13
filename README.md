@@ -2,7 +2,7 @@
 ![Python version](https://img.shields.io/badge/python-v3.5.2-blue.svg)
 [![Pythons tyle](https://img.shields.io/badge/code%20style-PEP%208-blue.svg)](https://www.python.org/dev/peps/pep-0008/)
 ![Readme version](https://img.shields.io/badge/readme-1.0.0-green.svg)
-![Todo checks](https://img.shields.io/badge/todos-0%2F5-red.svg)  
+![Todo checks](https://img.shields.io/badge/todos-1%2F5-red.svg)  
 
 Repository containing my solutions on the Tuenti Challenge 7 hosted by Tuenti using mostly Python programming language. Feel free to clone, contribute or give credit.
 
@@ -35,7 +35,7 @@ You can clone this repository by typing this in your terminal:
 
 ## TODO List
 
-- [ ] README in each folder with challenge description
+- [x] README in each folder with challenge description
 - [ ] Graph performance for each challenge
 - [ ] Add comparisons with official stats released by Tuenti
 - [ ] Improve or complete challenges based on write-ups or further development
