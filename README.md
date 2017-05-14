@@ -56,7 +56,7 @@ for everyone, even though this may cause some leftovers.
 Run time: ~0.07 seconds including file reading and writing.  
 Number of lines: 17 including module imports. Main algorithm is 8 lines.
 ## Challenge 2 - Bowling
-![Result](https://img.shields.io/badge/result-wrong-red.svg)  
+![Result](https://img.shields.io/badge/result-passed-brightgreen.svg)    
 TODO
 
 ## Challenge 3 - Board games
@@ -109,7 +109,7 @@ TODO
 ![Result](https://img.shields.io/badge/result-wrong-red.svg)  
 TODO
 ## Challenge 8 - Uni code to rule them all
-![Result](https://img.shields.io/badge/result-skipped-lightgrey.svg)  
+![Result](https://img.shields.io/badge/result-passed-brightgreen.svg)  
 TODO
 ## Challenge 9 - The Supreme Scalextric Architect
 ![Result](https://img.shields.io/badge/result-passed-brightgreen.svg)
